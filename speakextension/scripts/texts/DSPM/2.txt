@@ -1,0 +1,51 @@
+management needs; each student will also complete a final project that takes a data science
+need from start to finish (framing the problem, choosing data sources, exploratow data analysis,
+modeling, communicating results). Currently the final project is planned to be around market
+sizing and risk mitigation: in the first part of the project, the student selects an idea, identifies
+customer segments and then draws on publicly available data sources to estimate size of those
+segments. In the second phase students will identify risks and plans for measuring and
+mitigating the risks.
+
+Outcomes
+
+The main learning objectives of the course are to:
+
+1. Identify decision points during the product life cycle where data science techniques are
+applicable
+
+2. Select metrics, product instrumentation, external data sources, modeling techniques and
+tools for use in product management decision-making
+
+3. Apply selected basic modeling (e.g. classification, clustering, time series analysis, and
+text analytics) to product management; critique applicability and output from more
+advanced techniques.
+
+4. Plan and execute a data science project at realistic scale to inform at least one product
+management decision demonstrating mastery of objectives #1 - #3.
+
+Instructor: David Steier (PhD, CMU 808 ‘89)
+
+David Steier is Managing Director in the Advanced Analytics and Modeling practice of Deloitte
+Consulting LLP. At Deloitte, David has helped clients use advanced data analytics and
+visualization in a variety of industries including healthcare, life sciences, banking, retail,
+manufacturing, technology, telecommunications, media and the public sector. Prior to Deloitte,
+David was director in the Center for Advanced Research at PwC, senior director of technology
+and business development at Kanisa, and managing director at Scient. Beyond his over 25
+years of professional experience, David holds a Ph.D. in computer science from Carnegie
+Mellon and a bachelor’s degree in computer science from Purdue University. David has taught
+analytics project capstone courses and courses on Managing Analytics Projects course at CMU
+and at the University of California Berkeley.
+
+The teaching assistant for this class will be Prajwal Vasisht, who is enrolled in the School of
+Computer Science in the MSBIC program.
+
+Course Resources
+
+An online site with the syllabus, selected readings, Python resources has been created in
+
+Piazza. . The system is highly catered to getting you help fast and efficiently from classmates,
+the TA, and myself. Rather than emailing questions, we encourage you to post your questions
+on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
+
+DRAFT: Work in progress, not for quotation, last edited October 21, 2017
+

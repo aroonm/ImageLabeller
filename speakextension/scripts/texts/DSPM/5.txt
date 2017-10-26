@@ -1,0 +1,49 @@
+0 Topics
+Conjoint analysis to gather customer preferences
+Analyzing customer feedback — text analytics, topic modeling
+Social media listening to gather customer feedback
+0 Readings
+o Cielan, et.a|, 2016: Chapter 8
+0 Session 7 (Nov 8, Online): Evaluating Data Science Models
+0 Topics
+Feature selection: information gain, PCA, lasso
+Model evaluation — MSE, lift, AUC, Type 1 vs 2 errors
+Sun/ey and experimental design
+0 NB testing
+0 Readings: TBD
+0 Assignment due: HW2
+0 Assignment out: HW‘3
+
+0 Session 8 (Nov 13, Online): Data Science Infrastructure
+
+000
+
+0 Topics
+0 Instrumentation
+o Clickstream analytics
+0 Parallel and distributed computing for scalability:
+o Resolving technical tradeoffs
+o Readings
+
+o Cielan: et. al 2016, Chapter 4
+0 Session 9 (Nov 15, Online): Data Science for Marketing
+0 Topics
+Marketing to different customer segments: Uplift modeling
+Optimizing marketing spend: market mix modeling
+0 Readings
+0 Lo, 2015
+o Gutierrez, 2016
+0 Assignment due: HW‘3
+0 Assignment out: HW4
+0 Session 10 (Nov 20, Online): Data Science for Pricing
+0 Topics
+0 Conjoint analysis for pricing
+0 Price elasticity and optimization
+0 Readings: TBD
+[Note: No class Nov 22]
+0 Session 11 (Nov 27, Online): Deep Learning
+0 Topics
+0 Introduction to neural networks
+
+DRAFT: Work in progress, not for quotation, last edited October 21, 2017
+

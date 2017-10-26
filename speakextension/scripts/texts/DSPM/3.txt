@@ -1,0 +1,61 @@
+    
+
+Find our class page at: Mt: - ‘Eii’hixrrseéilcmrse Leamirm. To enroll
+
+for access to the site, go to ..
+
+The main text of the course covering the data science material will be Introduction to Data
+
+Science by Cielen, D., Meysman, AD. 8., and Ali, M. (published by Manning, 2016,
+
+hit ssn‘iy‘nvw.manmm 12x3rw‘bmpkshntraiiucim «izataeszﬁencse ). This will be supplemented by
+material around Python and covering various topics in product management as listed in the
+course outline below.
+
+Course Outline
+
+This mini-course is planned around two sessions of 1 hour 20 minutes apiece per week for 7
+weeks. For the Fall 2017 offering of the minicourse course, there will be an additional class on
+Friday Oct 27, and there will be no class the Wednesday before Thanksgiving (Nov 22). Note
+that the class venue will change - see room assignments below. The first six sessions and last
+two (1-6 and 13-14) are in person on campus (PH = Porter Hall, NSH = NeweII-Simon Hall),
+while sessions 7-12 will be conducted online using Zoom.
+
+0 Session 1 (Oct 23, PH 125C): ihtrmﬁutxtimn; Metﬁﬂﬁ fm Summem
+
+0 Topics
+
+0 Introductions
+
+0 Data science and product management
+
+0 Structure of the class
+
+0 Metrics for success in product management
+0 Readings:
+
+o Cielan eta|,pp.1-14
+0 (optional) Croll and Yoskovitz book, pp 45-72, then skim pp
+71 -151, or Croll and Yoskovitz e-book
+0 Assignment out: Complete python proficiency exercise, Datacamp tutorials as
+
+necessaw
+0 Session 2 (Oct 25, PH 125C): Statistics and Reg ression
+0 Topics
+0 Descriptive statistics
+0 Probability distributions
+0 Linear regression
+o Logistic regression
+
+o Readings/preparation
+o DataCamp online course, Statistical Thinking in Python, part1
+o Datacamp online course, Statistical thinking in Python, Part 2
+0 Assignment out: HW#1
+
+0 Session 3 (Oct 27, NSH 3305): Data Sou rces; Demand
+
+Forecasting
+0 Topics
+
+DRAFT: Work in progress, not for quotation, last edited October 21,2017
+

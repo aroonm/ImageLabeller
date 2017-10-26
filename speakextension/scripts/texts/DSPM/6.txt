@@ -1,0 +1,87 @@
+o Convolutional Neural Networks
+0 Recurrent Neural Networks
+0 Long Short Term Memories
+
+0 Readings
+o Jackar, 2016
+(Optional,) Ali, 2016
+0 Assignment due: HW4
+0 Assignment out: Final project
+Session 12 (Nov 29, Online): Internet of Things
+
+0 Topics
+
+0
+
+o ReaI-time personalization
+0 Internet of things
+0 Readings: TBD
+
+Session 13 (Dec 4, PH 125C): Susstaining Data—ﬂriven F’mduct
+
+Managamant
+0 Topics
+0 Communicating data science results
+0 Data visualization
+0 Turning data into product
+0 Organizing, draining, recruiting, and retaining data science talent
+
+o Readings
+o Patil, 2012
+o Zumel & Mount, 2013
+Session 14 (Dec 6, PH 125C): Final Project Presentation and
+
+Wrap-Up
+
+Course References
+
+1 .
+
+9’!“
+
+Ali, S. “Guide to Deep Learning,"
+
+Mi:31,-‘.r’\rmw.ciata r cementraLexarrsfsr-af: him :‘a-‘c Lsiciesnﬁwdee Hes; Aém‘
+
+Cielen, D., Meysman, AD. 8., and Ali, M ; Introduction to Data Science , Manning, 2016
+Croll, Adam and Yoskovitz, Alistair, Lean Analytics, O’Reilly, 2013.
+
+hit 3:.';"i,-*g’v.wtamazc‘n.mmx’LeawAnaMEQSvﬁettePSta ms va‘eReSiéw’ﬁ J1<§43
+Croll and Yoskovitz e-book
+
+hit 0.:t'fieanan231vv
+if
+Cast,
+ht?
+
+        
+
+   
+
+5?:3
+
+ 
+
+,sabmmk,camz’wm-canéemtmmcaégﬂﬁi3i01t'i-‘maivéica- Leasnma Learnedncﬁ
+
+ 
+  
+
+ 
+
+" iéhem‘mimé ixsmi2013i‘ Ax’ssrvmim «armr-‘Admﬁkmamac GE3'va£363£§Sﬁ§€>vkﬁi§$ﬁk
+
+Dancho, 2016, “Customer Segmentation Part 1: K-means clustering
+
+“m: :e:ffwww.businesas‘gniencse;
+
+  
+
+Uibussmas;
+
+{3 ‘3 Sif38f§}}’f(}u Sta) me E'SGE-l mes {static n F3111 ‘hﬁ mi
+
+ 
+
+DRAFT: Work in progress, not for quotation, last edited October 21, 2017
+

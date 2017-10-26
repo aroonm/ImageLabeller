@@ -1,0 +1,104 @@
+0000
+
+o Readings
+O
+O
+O
+
+The data science process
+
+Finding and evaluating data sources
+Forecasting
+
+Time series analysis
+
+Cielan et. a|,2016, pp1-10,22-56.
+Quartz guide to bad data, 2016
+Jain, Time series 2016
+
+0 Assignment due: Python proficiency demonstration
+0 Assignment out: HW1
+
+0 Session 4 (Oct 30, PH 125C): Decision Trees
+
+0 Topics
+
+00000
+
+0 Readings:
+
+0
+
+Mi 9 :h’x-‘wmm. data schss E
+
+The space of data science techniques
+Supen/ised and unsupervised learning
+Decision trees for classification
+Selecting modeling techniques
+Decision tree analysis
+
+Cielan, et al 2016, Chapter 3 (Machine learning)p. 228-230
+Magee 1964: Decision trees for decision making
+Markham, 2015, Comparing supervised learning algorithms
+
+  
+
+.mm arm vsuwervéseﬁviearmn vaé m'éihmsi'
+
+ 
+
+0
+
+(optional) Provost and Fawcett, Data Science for Business,,
+
+0 Session 5 (Nov 1, PH 125C): Market Segmentation and
+
+Chapter3-4
+Clustering
+0 Topics
+
+0
+
+O
+
+O
+
+O
+
+O
+
+o Readings
+
+O
+O
+O
+
+Unsupervised learning
+
+Clustering (k—means)
+
+Clustering for market segmentation
+Customer segmentation
+
+Selecting marketing techniques
+
+Dancho, 2016
+Cast, 2013;
+V\ﬁnd and Bell, 2008 “Market Segmentation"
+
+0 Assignment due:
+
+0
+
+O
+
+Prerequisite exercise demonstrating proficiency in Python
+HW1
+
+0 Assignment out: HW2
+0 Session 6 (Nov 6, PH 125C): Conjoint Analysis and Customer
+
+Feed back
+
+DRAFT: Work in progress, not for quotation, last edited October 21, 2017
+

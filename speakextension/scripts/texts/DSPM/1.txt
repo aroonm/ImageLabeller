@@ -1,0 +1,44 @@
+Syllabus for
+05-898: Making Products Count:
+
+Data Science for Product Managers
+
+Fall 2017 Mini-course 2 (6 units)
+
+Course Summary
+
+Product managers engage in a variety of complex activities critical to product success including
+0 Product requirements gathering
+Forecasting customer demand
+Customer segmentation
+Pricing
+Allocating marketing spend
+Identifying buying patterns
+0 Analyzing and responding to customer feedback
+Historically decisions in these areas have often relied on intuition and guesswork, leading to
+misjudgment of the market and other key factors, and ultimately, product failures. Developments
+in data science, combining the increasing availability of data from internal and external sources
+with new algorithms that exploit that data at scale, offer new possibilities for putting product
+management decisions on a more quantitative and rigorous footing. Students in this course will
+be introduced to a variety of data science techniques applicable to activities to which product
+managers typically contribute. These techniques include preference modeling, time series
+forecasting, regression, clustering, classification, A/B testing, and analytics for unstructured data
+including clickstreams, text, speech, and images. Along the way, students will learn about
+practical aspects of applying data science to product management, including:
+0 Choosing appropriate metrics for product success
+Selecting and assessing data sources
+Instrumenting products for data collection
+Data science infrastructure choices
+Evaluating data science models
+Documenting and communicating data science results
+Planning and delivering data science projects
+Data science pitfalls to watch for
+
+This course is primarily aimed at students with technical backgrounds who wish to apply their
+skills to product management. Backgrounds in basic statistics, and some programming
+experience are required, as the course will includes hands-on exercises in Python to illustrate
+the concepts. In-class exercises and weekly assignments will mainly focus on interpretation of
+the output of various data science techniques and matching different techniques to product
+
+DRAFT: Work in progress, not for quotation, last edited October 21,2017
+
